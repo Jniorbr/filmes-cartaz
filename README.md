@@ -1,4 +1,4 @@
-# 🎬 Prime Flix - Movie Discovery App
+# 🎬 Filmes Cartaz - Movie Discovery App
 
 [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -90,7 +90,7 @@ src/
 
 ### Header Component
 - Consistent navigation across all pages
-- Prime Flix branding
+- Filmes Cartaz branding
 - Quick access to favorites
 
 ## 🔧 Installation & Setup
@@ -103,8 +103,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movieapp.git
-   cd movieapp
+   git clone https://github.com/cristovaojr/filmes-cartaz.git
+   cd filmes-cartaz
    ```
 
 2. **Install dependencies**
